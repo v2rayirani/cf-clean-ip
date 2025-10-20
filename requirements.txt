@@ -1,0 +1,6 @@
+# Required Python packages for clean_ip.py
+# ----------------------------------------
+# Built-in libraries like os, json, threading, ipaddress are already included in Python.
+# You only need to install external ones listed below.
+
+requests>=2.31.0
